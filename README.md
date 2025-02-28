@@ -18,7 +18,6 @@ Hi, I’m **Mohammed Tati**, an **AI Engineer & Data Scientist** passionate abou
 ## 🌍 Let’s Connect  
 - **🌐 Portfolio:** [tatimohammed.vercel.app](https://tatimohammed.vercel.app/)  
 - **💼 LinkedIn:** [Mohammed Tati](https://www.linkedin.com/in/mohammed-tati-2b3665222/)  
-- **💻 GitHub:** [tatimohammed](https://github.com/tatimohammed)  
 
 🚀 Always exploring the next frontier in AI & data science!  
 
